@@ -1,0 +1,7 @@
+{
+  "name": "IonicAIOSampleApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
