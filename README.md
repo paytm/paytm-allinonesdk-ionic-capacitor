@@ -14,3 +14,7 @@ npx cap copy
 
 npx cap open android/iOS
 ```
+
+
+* Developer Docs: https://developer.paytm.com/docs/all-in-one-sdk/hybrid-apps/ionic/
+
